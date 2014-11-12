@@ -1,0 +1,125 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DEMmaster.master.cs" Inherits="DEM.DEMmaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+       <style type="text/css">
+        .auto-style2 {
+            text-align: center;
+               width: 1349px;
+           }
+        .auto-style3 {
+            width: 100%;
+            border-collapse: collapse;
+            height: 500px;
+            background-color: #9933FF;
+        }
+        .auto-style4 {
+            width: 50px;
+            height: 30px;
+        }
+           .auto-style6 {
+               width: 1350px;
+               background-color: #00ffff;
+               height: 658px;
+           }
+           .auto-style8 {
+               width: 1060px;
+               height: 504px;
+           }
+           .auto-style9 {
+               width: 20%;
+               height: 504px;
+           }
+    </style>
+</head>
+<body style="width: 1350px; height: 500px;">
+    <form id="form1" runat="server">
+    <div class="auto-style2" style="background-color: #99CCFF"><%-- header--%>
+
+
+
+
+        <asp:Image ID="Image1" runat="server" Height="50px" ImageUrl="~/Image/DEM.png" Width="800px" />
+
+
+
+
+    </div>
+    <div class="auto-style6">
+         <table>
+            <tr>
+                <td class="auto-style9">
+        
+       
+
+                
+                    <table class="auto-style3">
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td class="auto-style4"></td>
+                        </tr>
+                        
+                    </table>
+                    </td>
+                <td class="auto-style8" >
+
+               <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                  
+               </asp:ContentPlaceHolder>
+             
+                     </td>
+            </tr>
+                </table>
+       
+    </div>
+    </form>
+</body>
+</html>

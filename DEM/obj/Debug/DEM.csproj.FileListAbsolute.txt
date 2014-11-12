@@ -1,0 +1,10 @@
+D:\ideonics\DEM\DEM\bin\DEM.dll
+D:\ideonics\DEM\DEM\bin\DEM.pdb
+D:\ideonics\DEM\DEM\obj\Debug\DEM.csprojResolveAssemblyReference.cache
+D:\ideonics\DEM\DEM\obj\Debug\DEM.dll
+D:\ideonics\DEM\DEM\obj\Debug\DEM.pdb
+F:\work\DEM\DEM\obj\Debug\DEM.pdb
+F:\work\DEM\DEM\bin\DEM.dll
+F:\work\DEM\DEM\bin\DEM.pdb
+F:\work\DEM\DEM\obj\Debug\DEM.csprojResolveAssemblyReference.cache
+F:\work\DEM\DEM\obj\Debug\DEM.dll
